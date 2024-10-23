@@ -37,6 +37,7 @@ const App: () => JSX.Element = () => {
         smart_format: true,
         filler_words: true,
         utterance_end_ms: 3000,
+        language: "th"
       });
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
